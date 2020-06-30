@@ -122,7 +122,7 @@ namespace SortDictionary
             Console.WriteLine("before: ");
             print();
 
-            Console.WriteLine("begin findPath... 123123");
+            Console.WriteLine("begin findPath..");
             if (FindPath())
             {
                 Console.WriteLine("find Path!");
